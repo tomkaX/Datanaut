@@ -7,3 +7,4 @@ As a Datanaut, you can learn new data science skills, practice code techniques t
 
 Python 
 java
+R
